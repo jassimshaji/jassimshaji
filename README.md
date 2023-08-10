@@ -54,7 +54,7 @@
             <a href="https://www.mathworks.com/products/matlab.html">
     <img src="https://img.icons8.com/?size=1x&id=r5Y16PcDkoWI&format=png", title = "MATLAB", alt="MATLAB Badge", align = "top" width="40"/>&nbsp;
   </a>
-              <a href="[https://www.mathworks.com/products/matlab.html](https://flet.dev/)">
+              <a href="https://flet.dev/">
     <img src="https://i.stack.imgur.com/qoIkr.png", title = "flet", alt="flet Badge", align = "top" width="40"/>&nbsp;
   </a>
   
