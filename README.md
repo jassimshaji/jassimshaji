@@ -7,7 +7,7 @@
 <b> I've a bachelor's degree in Electronics and Communication Engineering(ECE,July 2023), I'm interested in Socket Programming and Game Development using Unity 3D(C# & C++) and Blender</b>
 ### 🧑‍💻About me
 
-- 👷 Electonics and cammunication engineer
+- 👷 Electonics and communication engineer
 - 💪 Coding as passion
 - 🥇On the way to develop my game dev skill
 
